@@ -1,0 +1,11 @@
+<h1>Editing student</h1>
+
+<%= render "form", student: @student %>
+
+<br>
+
+<div>
+  <%= link_to "Show this student", @student, class:"btn btn-secondary btn-sm" %> 
+  <%= link_to "Back to students", students_path, class:"btn btn-secondary btn-dark btn-sm" %>
+     <td><%= button_to 'Delete', @student, method: :delete, data: { confirm: 'Are you sure?' },class: "btn btn-danger btn-sm"%></td>
+</div>
