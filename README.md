@@ -1,24 +1,11 @@
 # README
+FrieThis is my Ruby on Rails Student List website.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Allow users to :
+	1. create accounts and log in to them. 
+	2. Attach students with their account. (Assotiaion).
+	3. Prevent other users from updating or deleting   that they don't 'belong_to' them.
 
-Things you may want to cover:
+It folow MVC prinicple. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks to (mycodeacadmy.com) !
