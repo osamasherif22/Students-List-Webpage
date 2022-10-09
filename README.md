@@ -2,6 +2,7 @@
 This is my Ruby on Rails Student List website.
 
 Allow users to :
+
 	1. create accounts and log in to them. 
 
 	2. Attach students with their account. (Assotiaion).
